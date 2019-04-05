@@ -1,6 +1,5 @@
-# unit-4-game
+# Crystal-Collector
 Crystal collector is a game bulit using javascript, html, bootstrap, and css.
 
-Instructions
 
-You will be given a random number at the start of the game. There are four crystals on the page. By clicking on a crystal you will add a specific amount of points to your total score. You win the game by matching your total score to the random number. You lose the game if your total score goes above the random number. The value of each crystal is hidden from you until you click on it.
+Crystal Collector Game  generates a random target number between 19 and 120 the user will have to match the ramdom target number. The user is displayed four crystals each with assigned value. The value of the crystals is hidden from the user. The game will reset when the user wins matching the target number or loses going over target number. When the game is reset the four crystals will be assgined new values and the computer will generate a new random number. 
